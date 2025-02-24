@@ -229,7 +229,7 @@ header {
     align-items: center;
 }
 .project-card-image {
-    width: 80%;
+    width: 60%;
     height: 110%;
     margin: 1rem;
     object-fit: cover;
